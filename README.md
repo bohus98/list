@@ -1,15 +1,15 @@
 # List of all projects
-| Project name  | Programming language |
-| ------------- | ------------- |
-| Student DB  | [Java](#java)  |
-| Hash  | [Python](#python)  |
-| Starship Game  | [Python](#python)  |
-| Tic Tac Toe  | [Python](#python)  |
-|Notes Web  | [Python](#python)  |
-| PRNG  | [Python](#python)  |
-| E-shop  | [C#](#c#)  |
-| Restaurant "DB"  | [C++](#c++)  |
-| DE1  | [VHDL](#vhdl)  |
+| Project name  | Programming language | Type of project |
+| ------------- | ------------- | ------------- |
+| Student DB  | [Java](#java)  | School |
+| Hash  | [Python](#python)  | Personal |
+| Starship Game  | [Python](#python)  | Personal |
+| Tic Tac Toe  | [Python](#python)  | Personal |
+|Notes Web  | [Python](#python)  | Personal |
+| PRNG  | [Python](#python)  | School |
+| E-shop  | [C#](#c#)  | School |
+| Restaurant "DB"  | [C++](#c++)  | School |
+| DE1  | [VHDL](#vhdl)  | School |
 ## Java
 [Student DB](https://github.com/bohus98/JavaProjekt) <br />
 -> Simple database app in Java, using sql lite. <br />
@@ -19,7 +19,7 @@
 [Starship Game](https://github.com/bohus98/PyGame) <br />
 -> PVP "Game" for 2 players using PyGame. <br /> 
 [Tic Tac Toe](https://github.com/bohus98/Tic-Tac-Toe) <br />
--> Simple game of tic-tac-toe <br />
+-> Simple game of tic-tac-toe. <br />
 [Notes Web](https://github.com/bohus98/Flask-Web) <br />
 -> Web app to write down notes using Flask. <br />
 [PRNG](https://github.com/bohus98/AKR-KeyGenerator) <br />
