@@ -1,7 +1,7 @@
 # List of all projects
 | Project name  | Programming language |
 | ------------- | ------------- |
-| Student DB  | [Java](##java)  |
+| Student DB  | [Java] (##java)  |
 | Hash  | Python  |
 | Starship Game  | Python  |
 | Tic Tac Toe  | Python  |
