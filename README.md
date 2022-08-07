@@ -2,7 +2,7 @@
 | Project name  | Programming language |
 | ------------- | ------------- |
 | Student DB  | [Java](##java)  |
-| Hash  | Python  |
+| Hash  | [Python](#python)  |
 | Starship Game  | Python  |
 | Tic Tac Toe  | Python  |
 |Notes Web  | Python  |
