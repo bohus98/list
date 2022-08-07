@@ -1,4 +1,15 @@
 # List of all projects
+| Project name  | Programming language |
+| ------------- | ------------- |
+| Student DB  | [Java](##java)  |
+| Hash  | Python  |
+| Starship Game  | Python  |
+| Tic Tac Toe  | Python  |
+|Notes Web  | Python  |
+| PRNG  | Python  |
+| E-shop  | C#  |
+| Restaurant "DB"  | C++  |
+| DE1  | VHDL  |
 ## Java
 [Student DB](https://github.com/bohus98/JavaProjekt) <br />
 ## Python
